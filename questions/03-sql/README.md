@@ -1,0 +1,1 @@
+Online sql playground at https://www.db-fiddle.com/f/fLcwCggL15WSyy4QcuFVSg/4
